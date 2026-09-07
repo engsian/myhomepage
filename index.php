@@ -11,5 +11,8 @@
     <p>
         I am a lecturer in Yanbu Industrial College
     </p>
+    <p>
+        I am teaching CS381 and CS382
+    </p>
 </body>
 </html>
